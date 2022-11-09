@@ -1,6 +1,7 @@
 Shopping List:
 
-app
-bana
-cherr
-crot
+apple
+banana
+cherry
+carrot
+cereal
