@@ -5,3 +5,5 @@ banana
 cherry
 carrot
 cereal
+cucumber
+radishes
